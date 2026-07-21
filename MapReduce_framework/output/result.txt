@@ -1,0 +1,6 @@
+Word,Count
+apple,30
+banana,30
+grapes,30
+mango,30
+orange,30
